@@ -39,6 +39,8 @@ An interactive **Power BI dashboard** that analyzes the impact of smoking on pat
 - Dashboard Screenshots
 
 ## 👨‍💻 Author
-**Pranith Kumar D**
+**Pranith Kumar**
+GitHub: https://github.com/pranithkumar11
+LinkedIn: https://www.linkedin.com/in/praneethkumar-dupuguntla-48721a237/
 
 ⭐ If you found this project useful, please consider giving it a star!
