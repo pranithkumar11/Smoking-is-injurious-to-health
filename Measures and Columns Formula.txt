@@ -1,0 +1,52 @@
+  
+
+                Measures and Columns Formula:
+
+Total Patients(also called as count of patients): 
+            Total _Partient = count('health_dataset 23'[Patient_ID]) 
+Smoking :
+Smoking = CALCULATE(COUNT('health_dataset 23'[Patient_ID]),'health_dataset 23'[Smoking_Status] = "current") 
+NON Smoking:
+Non smoking = CALCULATE(COUNT('health_dataset 23'[Patient_ID]),'health_dataset 23'[Smoking_Status] = "Never") 
+Male Count:
+Male Patients = CALCULATE(COUNT('health_dataset 23'[Patient_ID]),'health_dataset 23'[Gender] = "Male")
+Female Count :
+  Female Patients = CALCULATE(COUNT('health_dataset 23'[Patient_ID]),'health_dataset 23'[Gender] = "Female")
+BMI Category = 
+SWITCH(
+TRUE(),
+'health_dataset 23'[BMI]<18.5,"Underweight",
+'health_dataset 23'[BMI]<25,"Normal",
+'health_dataset 23'[BMI]<30,"Overweight",
+"Obese"
+)
+BMI average :
+BMI avg = AVERAGE('health_dataset 23'[BMI])
+AVERAGE YEARS of  SMOKING:
+AVG years = AVERAGE('health_dataset 23'[Years_of_Smoking]) 
+Average Age (in data set apply in age columns to find avg of age  )
+Average Age = AVERAGE('health_dataset 23'[Age])
+Age Group = 
+SWITCH(
+TRUE(),
+'health_dataset 23'[Age]<20,"Below 20",
+'health_dataset 23'[Age]<=40,"20-40",
+'health_dataset 23'[Age]<=60,"41-60",
+"Above 60"
+)
+Average Cigraettes per day:
+AVG Cigarettes = AVERAGE('health_dataset 23'[Cigarettes_Per_Day])
+Average cholesterol level :
+Avg cholesterol = AVERAGE('health_dataset 23'[Cholesterol_Level])
+
+
+
+
+
+
+
+
+
+
+
+  
