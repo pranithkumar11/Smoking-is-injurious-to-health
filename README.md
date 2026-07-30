@@ -11,16 +11,16 @@ An interactive **Power BI dashboard** that analyzes the impact of smoking on pat
 ## 📸 Dashboard Preview
 
 ### 🏠 Executive Dashboard
-![Executive Dashboard](Executive_Dashboard.png)
+![Executive Dashboard]
 
 ### 👥 Patient Dashboard
-![Patient Dashboard](Patient_Dashboard.png)
+![Patient Dashboard]
 
 ### 🚬 Smoking Analysis
-![Smoking Analysis](Smoking_Analysis.png)
+![Smoking Analysis]
 
 ### 🟠 BMI Analysis
-![BMI Analysis](BMI_Analysis.png)
+![BMI Analysis]
 
 ### 🩸 Blood Pressure Analysis
 ![Blood Pressure Analysis](BP_Analysis.png)
