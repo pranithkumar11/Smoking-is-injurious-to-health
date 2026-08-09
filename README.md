@@ -23,13 +23,13 @@ An interactive **Power BI dashboard** that analyzes the impact of smoking on pat
 ![BMI Analysis]
 
 ### 🩸 Blood Pressure Analysis
-![Blood Pressure Analysis](BP_Analysis.png)
+![Blood Pressure Analysis]
 
 ### 🚫 Cholesterol Analysis
-![Cholesterol Analysis](Cholesterol_Analysis.png)
+![Cholesterol Analysis]
 
 ### 🫀 Human Analysis
-![Human Analysis](Human_Analysis.png)
+![Human Analysis]
 
 ## 📁 Project Files
 - Power BI Dashboard (.pbix)
